@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "del": "^5.1.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-csso": "^4.0.1",
     "gulp-sass": "^4.1.0",
     "node-sass": "^4.14.1"
   }
